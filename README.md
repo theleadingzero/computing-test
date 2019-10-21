@@ -1,2 +1,2 @@
 # computing-test
-Test repo for curriculum development
+Test repo for curriculum development-suckers
