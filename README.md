@@ -1,2 +1,2 @@
 # computing-test
-Test repo for computing git examples.
+Test my repo for computing git examples.
