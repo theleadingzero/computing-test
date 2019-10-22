@@ -1,2 +1,2 @@
 # computing-test
-Test repo for curriculum development-suckers
+Test repo for git examples.
